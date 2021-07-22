@@ -1,0 +1,167 @@
+h1 {
+	color: #FF416C !important;
+	font-size: 2em;
+	width: 80px;
+    height: 80px;
+	top: 8px;
+	left: 20px;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-style: italic;
+	z-index: 100;
+}
+
+.offline{
+	background:dimgray;
+	color:white;
+  
+  }
+  
+
+#logo {
+    width: 80px;
+    height: 80px;
+    background-image: url(../img/logo.png);
+    font-size: 0px;
+    position: absolute;
+    left: 20px;
+    z-index: 100;
+}
+
+#barra {
+	z-index: 1;
+	background-color: #ffffffe3;
+	color: #FF416C;
+	height: 30vh;
+}
+
+h2 {
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-style: italic;
+	color: #FF416C !important;
+	font-size: 3.5em;
+}
+
+h3 {
+	color: #FF416C;
+}
+
+h4 {
+	color: #FF416C;
+}
+
+input[type="text"], input[type="number"] {
+	border: 2px solid #FF416C;
+	border-radius: 30px;
+	margin: .7em 0;
+}
+
+input[type="text"]:focus {
+	background: #ff416c29;
+}
+
+input[type="number"]:focus {
+	background: #ff416c29;
+
+}
+
+input[type="textarea"] {
+	border: 2px solid #FF416C;
+	border-radius: 30px;
+	margin: .7em 0;
+	height: 15vh;
+}
+
+input[type="textarea"]:focus{
+	background: #ff416c29;
+}
+
+input[type="submit"] {
+	background: #FF416C; 
+	border-radius: 30px; 
+	color: white;
+	border: 2px solid #FF416C;
+}
+
+input[type="submit"]:hover {
+	background: #ff2657;
+}
+
+.btn-compartir {
+	background: #FF416C; 
+	border-radius: 30px; 
+	color: white;
+	border: 2px solid #FF416C;
+}
+
+.btn-compartir:hover {
+	background: #ff2657;
+}
+
+nav {
+    height: 10vh; 
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+	color: #ff2657 !important;
+}
+
+p {
+	font-size: 1.2em;
+	color: #808080;
+}
+
+.beneficios {
+	color: #FF416C;
+}
+
+.pbeneficios {
+	color: gray;
+}
+
+.btn-add {
+	background: #FF416C ;
+	color: white;
+}
+
+.btn-add:hover {
+	background: #ff2657;
+	color: white;
+}
+
+#enviogratis {
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-style: italic;
+	color: #FF416C !important;
+	font-size: 2.5em;
+}
+
+.mostrar {
+	background: lightgreen;
+	color: white !important;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+}
+
+.confirmacion {
+	background: lightgreen;
+	color: white;
+	text-align: center;
+}
+
+span {
+	font-weight: bold;
+	color: #FF416C;
+}
+
+footer {
+	background: #FF416C ;
+}
+
+footer p {
+	color: white;
+
+}
